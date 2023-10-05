@@ -28,5 +28,9 @@ this is a gold and silver items calulation this main things tha a calculate the 
 
 
 
-https://github.com/RaheelAhmad0066/Flutter_Gold_Silver_Calculation/assets/146185477/7d94d899-8fcd-4cc6-8f05-0bff10fe13b3
+
+https://github.com/RaheelAhmad0066/Flutter_Gold_Silver_Calculation/assets/146185477/4fe87f9c-ebb8-492b-92dc-61b3819e9974
+
+
+
 
